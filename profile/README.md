@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://gadmin.app">
-  <img src="https://cdn.gadmin.app/logo-bg-squared-light.png?w=48&h=48" alt="Logo de Gadmin" width="800" />
+  <img src="https://cdn.gadmin.app/logo-bg-squared-light.png?w=800&h=800" alt="Logo de Gadmin" width="800" />
 </a>
 
 ## Gadmin - El SaaS transparente para PyMEs
